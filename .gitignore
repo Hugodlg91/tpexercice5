@@ -1,0 +1,6 @@
+#Ignore les fichiers 1.txt et 2.txt
+1.txt
+2.txt
+
+#Ignore les fichiers .jpg
+*.jpg
